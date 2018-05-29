@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="LoanerApp">1a1ddf6a4f565300b5bd2ed18110c755</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>LoanerRequests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_206814_loanerapp_loanerrequest</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_206814_loanerapp.loanerrequest_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-29 08:27:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9c8c07e4f965300b5bd2ed18110c736</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LoanerApp" source="x_206814_loanerapp">0ea24d2a4f525300b5bd2ed18110c761</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerApp">0ea24d2a4f525300b5bd2ed18110c761</sys_scope>
+        <sys_update_name>sys_app_module_e9c8c07e4f965300b5bd2ed18110c736</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-29 16:25:31</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

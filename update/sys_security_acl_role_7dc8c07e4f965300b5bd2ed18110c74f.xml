@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-29 08:27:54</sys_created_on>
+        <sys_id>7dc8c07e4f965300b5bd2ed18110c74f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_206814_loanerapp_loanerrequest.x_206814_loanerapp.loanerrequest_user</sys_name>
+        <sys_package display_value="LoanerApp" source="x_206814_loanerapp">0ea24d2a4f525300b5bd2ed18110c761</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerApp">0ea24d2a4f525300b5bd2ed18110c761</sys_scope>
+        <sys_security_acl display_value="x_206814_loanerapp_loanerrequest">75c8c07e4f965300b5bd2ed18110c74d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7dc8c07e4f965300b5bd2ed18110c74f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-29 08:27:54</sys_updated_on>
+        <sys_user_role display_value="x_206814_loanerapp.loanerrequest_user" name="x_206814_loanerapp.loanerrequest_user">a5c8c83e4f965300b5bd2ed18110c78e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_206814_loanerapp.loanerrequest_user</name>
+        <suffix>loanerrequest_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-29 08:27:54</sys_created_on>
+        <sys_id>a5c8c83e4f965300b5bd2ed18110c78e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_206814_loanerapp.loanerrequest_user</sys_name>
+        <sys_package display_value="LoanerApp" source="x_206814_loanerapp">0ea24d2a4f525300b5bd2ed18110c761</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerApp">0ea24d2a4f525300b5bd2ed18110c761</sys_scope>
+        <sys_update_name>sys_user_role_a5c8c83e4f965300b5bd2ed18110c78e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-29 08:27:54</sys_updated_on>
+    </sys_user_role>
+</record_update>
