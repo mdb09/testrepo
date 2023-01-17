@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-07 15:58:36</sys_created_on>
+        <sys_id>08254eb847102110c1522646926d432d</sys_id>
+        <sys_name>description</sys_name>
+        <sys_package display_value="LoanerApp" source="x_206814_loanerapp">0ea24d2a4f525300b5bd2ed18110c761</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerApp">0ea24d2a4f525300b5bd2ed18110c761</sys_scope>
+        <sys_update_name>sys_ui_policy_action_08254eb847102110c1522646926d432d</sys_update_name>
+        <table>x_206814_loanerapp_loanerrequest</table>
+        <ui_policy display_value="Simple UI Policy to make filed mandatory">91e44ab847102110c1522646926d4374</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

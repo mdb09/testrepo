@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_206814_loanerapp_loanerrequest">priority=1^EQ<item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Simple UI Policy to make filed mandatory</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-07 15:57:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>91e44ab847102110c1522646926d4374</sys_id>
+        <sys_name>Simple UI Policy to make filed mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LoanerApp" source="x_206814_loanerapp">0ea24d2a4f525300b5bd2ed18110c761</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerApp">0ea24d2a4f525300b5bd2ed18110c761</sys_scope>
+        <sys_update_name>sys_ui_policy_91e44ab847102110c1522646926d4374</sys_update_name>
+        <table>x_206814_loanerapp_loanerrequest</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>
